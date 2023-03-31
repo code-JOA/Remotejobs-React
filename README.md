@@ -2,7 +2,7 @@
 
 Website built with React for jobs
 
-npm install vite@latest
+npm create vite@latest
 
 choose dependencies React
 
