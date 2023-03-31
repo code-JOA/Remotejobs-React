@@ -15,5 +15,9 @@ body{
 li{
   list-style: none;
   cursor: pointer;
-  
+  position: relative;
+}
+
+li:hover::before{
+
 }
