@@ -14,5 +14,8 @@ npm install
 
 npm run dev
 
+# Installing Tailwind css
+Click on get started once you get on the Tailwind website
+Framework : choose Vite
 
 
