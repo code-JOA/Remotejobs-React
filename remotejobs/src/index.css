@@ -11,3 +11,9 @@
 body{
   background: white;
 }
+
+li{
+  list-style: none;
+  cursor: pointer;
+  
+}
