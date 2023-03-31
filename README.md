@@ -18,4 +18,8 @@ npm run dev
 Click on get started once you get on the Tailwind website
 Framework : choose Vite
 
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
 
