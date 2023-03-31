@@ -12,3 +12,7 @@ cd remotejobs
 
 npm install
 
+npm run dev
+
+
+
