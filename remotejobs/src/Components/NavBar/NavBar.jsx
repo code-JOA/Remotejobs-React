@@ -8,6 +8,8 @@ const NavBar = () => {
         <strong>Remote</strong>Jobs</h1>
       </div> 
 
+      <div classNaame></div>
+
     </div>
   )
 }
