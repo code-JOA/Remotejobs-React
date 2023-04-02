@@ -7,17 +7,12 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App
-      {/* <NavBar/>
+    <div>
+      <NavBar/>
       <Search/>
       <Jobs/>
       <Value/>
-      <Footer/> */}
-
-      {/* <p className= "text-red-600">The font is green</p> */}
-      {/* <h1 className="text-red-600 text-3xl font-bold underline">
-    Hello world!
-  </h1> */}
+      <Footer/> 
 
     </div>
 
