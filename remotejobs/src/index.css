@@ -12,11 +12,13 @@ body{
   background: white;
 }
 
-/* li{
+li{
   list-style: none;
   cursor: pointer;
   position: relative;
 }
+
+/* 
 
 li:hover::before{
   position: absolute;
