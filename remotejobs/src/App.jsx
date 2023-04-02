@@ -1,18 +1,18 @@
 import React from 'react'
-// import Footer from './Components/FooterDiv/Footer'
-// import Jobs from './Components/JobDiv/Jobs'
+import Footer from './Components/FooterDiv/Footer'
+import Jobs from './Components/JobDiv/Jobs'
 import NavBar from './Components/NavBar/NavBar'
-// import Search from './Components/SearchDiv/Search'
-// import Value from './Components/ValueDiv/Value'
+import Search from './Components/SearchDiv/Search'
+import Value from './Components/ValueDiv/Value'
 
 const App = () => {
   return (
     <div>
       <NavBar/>
-      {/* <Search/>
+      <Search/>
       <Jobs/>
       <Value/>
-      <Footer/>  */}
+      <Footer/> 
 
     </div>
 
