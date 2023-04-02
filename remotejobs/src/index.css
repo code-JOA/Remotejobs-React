@@ -20,6 +20,8 @@ li{
 
 li:hover::before{
   position: inherit;
-  
+  content: '';
+  height: 4px;
+  width: 100%;
 
 }
