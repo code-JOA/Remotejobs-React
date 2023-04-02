@@ -9,8 +9,10 @@ const NavBar = () => {
       </div> 
 
       <div className="menu flex gap-8">
-        li.menuList
-        
+        <li className="menuList">
+
+        </li>
+
       </div>
 
     </div>
