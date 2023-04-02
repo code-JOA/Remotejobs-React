@@ -8,11 +8,11 @@ import Value from './Components/ValueDiv/Value'
 const App = () => {
   return (
     <div>
-      <NavBar/>
+      {/* <NavBar/>
       <Search/>
       <Jobs/>
       <Value/>
-      <Footer/>
+      <Footer/> */}
 
     </div>
 
