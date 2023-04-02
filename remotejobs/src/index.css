@@ -19,7 +19,7 @@ body{
 }
 
 li:hover::before{
-  position: inherit;
+  position: absolute;
   content: '';
   height: 4px;
   width: 100%;
