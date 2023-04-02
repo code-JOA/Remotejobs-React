@@ -1,9 +1,9 @@
 import React from 'react'
-import Footer from './Components/FooterDiv/Footer'
-import Jobs from './Components/JobDiv/Jobs'
-import NavBar from './Components/NavBar/NavBar'
-import Search from './Components/SearchDiv/Search'
-import Value from './Components/ValueDiv/Value'
+// import Footer from './Components/FooterDiv/Footer'
+// import Jobs from './Components/JobDiv/Jobs'
+// import NavBar from './Components/NavBar/NavBar'
+// import Search from './Components/SearchDiv/Search'
+// import Value from './Components/ValueDiv/Value'
 
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
       <Jobs/>
       <Value/>
       <Footer/> */}
-      <p className= "green"></p>
+      <p className= "text-green-600"></p>
            {/* <p className="text-3xl font-bold underline"></p> */}
 
 
