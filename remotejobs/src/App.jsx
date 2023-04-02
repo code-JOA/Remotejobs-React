@@ -13,15 +13,15 @@ const App = () => {
       <Jobs/>
       <Value/>
       <Footer/> */}
-      <p className= "text-green-600"></p>
-           {/* <p className="text-3xl font-bold underline"></p> */}
+
+      {/* <p className= "text-red-600">The font is green</p> */}
 
 
     </div>
 
-  //   <h1 className="text-3xl font-bold underline">
-  //   Hello world!
-  // </h1>
+    <h1 className="text-3xl font-bold underline">
+    Hello world!
+  </h1>
 
   )
 }
