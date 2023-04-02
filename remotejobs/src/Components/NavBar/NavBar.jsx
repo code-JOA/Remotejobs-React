@@ -10,11 +10,11 @@ const NavBar = () => {
 
       <div className="menu flex gap-100">
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">Jobs
-        <li className="menuList text-[#6f6f6f] hover:text-blueColor">Companies
+        {/* <li className="menuList text-[#6f6f6f] hover:text-blueColor">Companies
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">About
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">Contact
         <li className="menuList text-[#6f6f6f] hover:text-blueColor">Login
-        <li className="menuList text-[#6f6f6f] hover:text-blueColor">Register
+        <li className="menuList text-[#6f6f6f] hover:text-blueColor">Register */}
         </li>
       </div>
     </div>
