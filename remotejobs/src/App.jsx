@@ -1,12 +1,15 @@
 import React from 'react'
 import NavBar from './Components/NavBar/NavBar'
-import Search from './'
+import Search from './Components/SearchDiv/Search'
 
 const App = () => {
   return (
     <div>
       <NavBar/>
       <Search/>
+      <NavBar/>
+      <NavBar/>
+
 
     </div>
 
