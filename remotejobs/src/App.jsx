@@ -15,13 +15,13 @@ const App = () => {
       <Footer/> */}
 
       {/* <p className= "text-red-600">The font is green</p> */}
-
+      <h1 className="text-red-600 text-3xl font-bold underline">
+    Hello world!
+  </h1>
 
     </div>
 
-    <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+    
 
   )
 }
