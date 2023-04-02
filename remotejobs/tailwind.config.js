@@ -6,7 +6,10 @@ export default {
   ],
   theme: {
     extend: {
-      color: 
+      colors:{
+        'bluecolor': '#2a68ff',
+        'greyIsh'
+      } 
     },
   },
   plugins: [],
