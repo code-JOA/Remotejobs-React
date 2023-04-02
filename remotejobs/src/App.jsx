@@ -15,9 +15,9 @@ const App = () => {
       <Footer/> */}
 
       {/* <p className= "text-red-600">The font is green</p> */}
-      <h1 className="text-red-600 text-3xl font-bold underline">
+      {/* <h1 className="text-red-600 text-3xl font-bold underline">
     Hello world!
-  </h1>
+  </h1> */}
 
     </div>
 
