@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 const App = () => {
   return (
-    <div>"App"</div>
+    <div>"App works for now"</div>
     // <p>Tailwind css works too</p>
   )
 }
