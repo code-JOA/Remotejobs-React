@@ -8,7 +8,10 @@ const NavBar = () => {
         <strong>Remote</strong>Jobs</h1>
       </div> 
 
-      <div className="menu"></div>
+      <div className="menu flex gap-8">
+        li.menuList
+        
+      </div>
 
     </div>
   )
