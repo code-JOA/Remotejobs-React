@@ -25,6 +25,11 @@ li:hover::before{
   width: 100%;
   background: #2a68ff;
   right: 0;
-  color: #2
-
+  color: #2a68ff;
 }
+
+.icon{
+  cursor: pointer;
+}
+
+.car
