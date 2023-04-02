@@ -2,7 +2,7 @@ import React from 'react'
 
 const NavBar = () => {
   return (
-    <div className= navBar justify>
+    <div className='navBar flex justify-between items-center'>
 
     </div>
   )
