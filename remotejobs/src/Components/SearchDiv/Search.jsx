@@ -45,7 +45,7 @@ const Search = () => {
 
           <div className='secDiv flex items-center gap-10 justify-center'>
             <div className='singleSearch flex items-center gap-2'>
-              <label htmlFor="r"></label>
+              <label htmlFor="relevance" className='text-[#808080]'></label>
             </div>
           </div>
 
