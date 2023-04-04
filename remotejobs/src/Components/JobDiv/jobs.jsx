@@ -7,13 +7,12 @@ import logo1 from '../../Assets/logo1.png'
 const data = [
   {
     id:1,
-    img:logo1,
+    image:logo1,
     title: 'Web Developer',
     time: 'Now',
     location: 'Canada'
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bravo',
-
   }
 
 ]
@@ -53,7 +52,7 @@ const Jobs = () => {
         </div>
       
       {
-        data.map(({}))
+        data.map(({id, image, title, time, location, desc, company}))
       }
 
       </div>
