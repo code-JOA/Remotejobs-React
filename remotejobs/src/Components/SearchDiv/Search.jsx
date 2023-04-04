@@ -48,7 +48,7 @@ const Search = () => {
               <label htmlFor="relevance" className='text-[#808080] font-semibold'
               >Sortby:</label>
 
-              <select></select>
+              <select name="" id="relevance" className=></select>
             </div>
           </div>
 
