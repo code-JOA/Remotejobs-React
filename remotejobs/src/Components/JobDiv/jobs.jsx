@@ -27,6 +27,9 @@ const Jobs = () => {
         <img src={logo1} alt='Company Logo' className='w-[40%]'/>
         </div>
 
+        <button >
+
+        </button>
 
         </div>
       </div>
