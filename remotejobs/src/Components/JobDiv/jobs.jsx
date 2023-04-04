@@ -30,7 +30,8 @@ const Jobs = () => {
         </div>
 
         <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px]
-        semi-bold text-textColor'>
+        semi-bold text-textColor hover:bg-white group-hover/item:text-textColor
+        group-hover:text-white'>
         Apply Now
         </button>
 
