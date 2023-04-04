@@ -22,7 +22,7 @@ const Jobs = () => {
     <div>
       <div className='jobContainer flex gap-10 justify-center flex-wrap items-center
       py-10'>
-        <div className='group group/item singleJob w-[250px] p-[20px] bg-white rounded
+        {/* <div className='group group/item singleJob w-[250px] p-[20px] bg-white rounded
         [10px] hover:bg-blueColor shadow-lg shadow-greyIsh-400/700 hover:shadow-lg'>
 
         <span className='flex justify-between items-center gap-4 '>
@@ -49,7 +49,7 @@ const Jobs = () => {
         group-hover:text-white'>
         Apply Now
         </button>
-        </div>
+        </div> */}
       
       {
         data.map(({id,image,title,time,location,desc,company}) => {
