@@ -46,7 +46,7 @@ const Search = () => {
           <div className='secDiv flex items-center gap-10 justify-center'>
             <div className='singleSearch flex items-center gap-2'>
               <label htmlFor="relevance" className='text-[#808080] font-semibold'
-              >Sortby:</label>
+              >Sort by:</label>
 
             <select name="" id="relevance" className='bg-white rounded-[3px] px-4 py-1'>
                <option value=''>Relevance</option>
