@@ -74,17 +74,17 @@ const data = [
     time: '24hrs',
     location: 'California',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'As',
+    company: 'Kosmopol',
   },
   {
-    id:3,
-    image:logo3,
-    title: 'Prod. Manager',
+    id:8,
+    image:logo8,
+    title: 'Researcher',
     time: 'Now',
-    location: 'London',
+    location: 'Germany',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Aspen Hosp',
-  },
+    company: 'Euro News',
+  }
 
 ]
 
