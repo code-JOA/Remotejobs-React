@@ -9,7 +9,10 @@ const data = [
     id:1,
     img:logo1,
     title: 'Web Developer',
-    time: 'Now'
+    time: 'Now',
+    location: 'Canada'
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet'
+    comp
   }
 
 ]
