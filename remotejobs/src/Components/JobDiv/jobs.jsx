@@ -9,7 +9,7 @@ const Jobs = () => {
         [10px] hover:bg-blueColor shadow-lg shadow-greyIsh-400/700 hover:shadow-lg'>
 
         <span className='flex justify-between items-center gap-4 '>
-          
+          <h1>Web Developer</h1>
 
         </span>
 
