@@ -1,4 +1,5 @@
 import React from 'react'
+import { BiTimeFive } from 
 
 const Jobs = () => {
   return (
@@ -12,7 +13,7 @@ const Jobs = () => {
           <h1 className='text-[16px] font-semibold text-textColor group-hover:text-white'
           >Web Developer</h1>
           <span className=''>
-
+            <BiTimeFive/>
           </span>
 
 
