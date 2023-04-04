@@ -1,6 +1,6 @@
 import React from 'react'
 import { BiTimeFive } from 'react-icons/bi'
-import logo2 from '../../Assets/logo1'
+import logo2 from '../../Assets/logo(2).png'
 
 const Jobs = () => {
   return (
