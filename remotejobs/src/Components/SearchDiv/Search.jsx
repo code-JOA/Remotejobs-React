@@ -1,6 +1,6 @@
 import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
-import { AiOutlineCloseCircle }
+import { AiOutlineCloseCircle } from 'react-icons/ai'
 
 const Search = () => {
   return (
