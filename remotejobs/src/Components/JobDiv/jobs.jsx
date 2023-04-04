@@ -29,7 +29,8 @@ const Jobs = () => {
         </span>
         </div>
 
-        <button className='border-[2px] rounded-[10px] block p-[10px] w-full'>
+        <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px]
+        semi-bold'>
         Apply Now
         </button>
 
