@@ -52,7 +52,9 @@ const Jobs = () => {
         </div>
       
       {
-        data.map(({id, image, title, time, location, desc, company}))
+        data.map(({id,image,title,time,location,desc,company}) => {
+          
+        })
       }
 
       </div>
