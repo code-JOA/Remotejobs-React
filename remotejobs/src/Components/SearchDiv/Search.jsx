@@ -49,7 +49,8 @@ const Search = () => {
               >Sortby:</label>
 
               <select name="" id="relevance" className='bg-white rounded-[3px] px-4
-                py-1 option value='>Relevance</select>
+                py-1'> <option value=</'>Relevance
+                </select>
             </div>
           </div>
 
