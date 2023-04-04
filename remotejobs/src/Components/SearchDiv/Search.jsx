@@ -25,16 +25,15 @@ const Search = () => {
 
          <div className='flex gap-2 items-center'>
             <BsHouseDoor className='text-[25px] icon'/>
-        <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
-          w-[100%]' placeholder='Search by Company....' />
+            <input type='text' className='bg-transparent text-blue-500 
+            focus:outline-none w-[100%]' placeholder='Search by Company....' />
+            <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
+            hover:text-textColor icon' />
+          </div>
 
-      <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
-        hover:text-textColor icon' />
-    </div>
-
-    <div className='flex gap-2 items-center'>
-      <CiLocationOn className='text-[25px] icon'/>
-        <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
+          <div className='flex gap-2 items-center'>
+            <CiLocationOn className='text-[25px] icon'/>
+            <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
           w-100%' placeholder='Search by Location....' />
 
       <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
