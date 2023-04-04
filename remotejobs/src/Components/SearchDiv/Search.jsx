@@ -42,9 +42,7 @@ const Search = () => {
     hover:text-textColor icon' />
 </div>
 
-<button className>
-
-</button>
+<button className=''>Search/>
 
 
 
