@@ -10,7 +10,7 @@ const data = [
     image:logo1,
     title: 'Web Developer',
     time: 'Now',
-    location: 'Canada'
+    location: 'Canada',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bravo',
   }
@@ -67,7 +67,7 @@ const Jobs = () => {
     
             <h6 className='text-[#ccc]'>{location}</h6>
             <p className='text-[13px] text-[#959595] pt-[20px] border-t-[2px] mt-[20px]
-            group-hover:text-white'>Lorem empire, Lorem ipsum dolor sit amet, consectet
+            group-hover:text-white'>{Lorem empire, Lorem ipsum dolor sit amet, consectet
             </p>
     
             <div className="company flex items-center gap-2">
