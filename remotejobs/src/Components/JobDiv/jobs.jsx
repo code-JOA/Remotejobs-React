@@ -4,9 +4,9 @@ import { BiTimeFive } from 'react-icons/bi'
 const Jobs = () => {
   return (
     <div>
-      <div className='jobcontainer flex gap-10 justify-center flex-wrap items-center
+      <div className='jobContainer flex gap-10 justify-center flex-wrap items-center
       py-10'>
-        <div className='group/item singleJob w-[250px] p-[20px] bg-white rounded
+        <div className='group group/item singleJob w-[250px] p-[20px] bg-white rounded
         [10px] hover:bg-blueColor shadow-lg shadow-greyIsh-400/700 hover:shadow-lg'>
 
         <span className='flex justify-between items-center gap-4 '>
