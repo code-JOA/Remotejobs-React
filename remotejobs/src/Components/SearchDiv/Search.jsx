@@ -65,9 +65,9 @@ const Search = () => {
             :</label>
 
             <select name="" id="relevance" className='bg-white rounded-[3px] px-4 py-1'>
-              <option value="">Relevance</option>
-              <option value="">Inclusive</option>
-              <option value="">StartsWith</option>
+              <option value="">Full-time</option>
+              <option value="">Remote</option>
+              <option value="">Contract</option>
               <option value="">Contains</option>
             </select>
             </div>
