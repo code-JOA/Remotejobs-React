@@ -25,11 +25,12 @@ const Jobs = () => {
 
         <div className="company flex items-center gap-2">
         <img src={logo1} alt='Company Logo' className='w-[40%]'/>
-        <span className='text-[14px] py-[1rem] block group-hover:text-white'>Bravo</span>
+        <span className='text-[14px] py-[1rem] block group-hover:text-white'>Bravo
+        </span>
         </div>
 
         <button className='border-[2px] rounded-[10px] block p-[10px] w-full'>
-
+        Apply Now
         </button>
 
         </div>
