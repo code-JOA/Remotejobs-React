@@ -13,11 +13,11 @@ const data = [
     location: 'Canada',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bravo',
-  }
+  },
   // {
   //   id:2,
   //   image:logo2,
-  //   title: 'Software Eng',
+  //   title: 'UI Designer',
   //   time: 'Now',
   //   location: 'Bali',
   //   desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
