@@ -73,8 +73,8 @@ const Search = () => {
             </div>
 
             <div className='singleSearch flex items-center gap-2'>
-            <label htmlFor="relevance" className='text-[#808080] font-semibold'>Sort 
-            by:</label>
+            <label htmlFor="Level" className='text-[#808080] font-semibold'>Level 
+            :</label>
 
             <select name="" id="relevance" className='bg-white rounded-[3px] px-4 py-1'>
               <option value="">Relevance</option>
