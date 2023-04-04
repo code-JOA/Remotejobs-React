@@ -1,5 +1,5 @@
 import React from 'react'
-import { BiTimeFive } from 
+import { BiTimeFive } from 'react-icons/bi'
 
 const Jobs = () => {
   return (
