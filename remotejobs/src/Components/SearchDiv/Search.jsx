@@ -49,7 +49,10 @@ const Search = () => {
               >Sortby:</label>
 
             <select name="" id="relevance" className='bg-white rounded-[3px] px-4 py-1'>
-               <option value=''</option>Relevance
+               <option value=''>Relevance</option>
+               <option value=''>Relevance</option>
+               <option value=''>Relevance</option>
+               <option value=''>Relevance</option>
                 </select>
             </div>
           </div>
