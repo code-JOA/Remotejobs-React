@@ -50,9 +50,9 @@ const Search = () => {
 
             <select name="" id="relevance" className='bg-white rounded-[3px] px-4 py-1'>
                <option value=''>Relevance</option>
-               <option value=''>Relevance</option>
-               <option value=''>Relevance</option>
-               <option value=''>Relevance</option>
+               <option value=''>Inclusive</option>
+               <option value=''>StartsWith</option>
+               <option value=''>Contains</option>
                 </select>
             </div>
           </div>
