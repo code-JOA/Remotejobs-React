@@ -15,14 +15,14 @@ const Search = () => {
         gap-[10px] bg-white p-5 shadow-lg shadow-greyIsh-700'>
 
 
-<div className='flex gap-2 items-center'>
-  <AiOutlineSearch className='text-[25px] icon'/>
-  <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
-   w-100%' placeholder='SearchJobs Here....' />
+    <div className='flex gap-2 items-center'>
+      <AiOutlineSearch className='text-[25px] icon'/>
+        <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
+          w-100%' placeholder='SearchJobs Here....' />
 
-   <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
-    hover:text-textColor icon' />
-</div>
+      <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
+          hover:text-textColor icon' />
+    </div>
 
 <div className='flex gap-2 items-center'>
   <BsHouseDoor className='text-[25px] icon'/>
