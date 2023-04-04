@@ -6,7 +6,10 @@ import logo1 from '../../Assets/logo1.png'
 
 const data = [
   {
-    id:
+    id:1,
+    img:logo1,
+    title: 'Web Developer',
+    time: 'Now'
   }
 
 ]
