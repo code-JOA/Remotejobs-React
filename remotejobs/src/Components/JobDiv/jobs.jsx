@@ -65,7 +65,7 @@ const data = [
     time: '4hrs',
     location: 'Dubai',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Aspen Hosp',
+    company: 'Europe2',
   },
   {
     id:3,
