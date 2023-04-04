@@ -4,6 +4,10 @@ import logo1 from '../../Assets/logo1.png'
 import logo2 from '../../Assets/logo2.png'
 import logo3 from '../../Assets/logo3.png'
 import logo4 from '../../Assets/logo4.png'
+import logo5 from '../../Assets/logo5.png'
+import logo6 from '../../Assets/logo6.png'
+import logo7 from '../../Assets/logo7.png'
+import logo8 from '../../Assets/logo8.png'
 
 
 // listing all other jobs using a Map() which is a high order array 
@@ -44,6 +48,15 @@ const data = [
     location: 'New York',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bolt',
+  },
+  {
+    id:3,
+    image:logo3,
+    title: 'Prod. Manager',
+    time: 'Now',
+    location: 'London',
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Aspen Hosp',
   },
   {
     id:3,
