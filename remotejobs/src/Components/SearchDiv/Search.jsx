@@ -1,5 +1,6 @@
 import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
+import { AiOutlineCloseCircle }
 
 const Search = () => {
   return (
@@ -14,7 +15,7 @@ const Search = () => {
   <AiOutlineSearch className='text-[25px] icon'/>
   <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
    w-100%' placeholder='SearchJobs Here....' />
-   <AiOut/>
+   <AiOutlineCircleClose/>
 </div>
 
 </div>
