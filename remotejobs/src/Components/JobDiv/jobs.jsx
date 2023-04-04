@@ -18,6 +18,7 @@ const Jobs = () => {
         </span>
 
         <h6 className='text-[#ccc]'>Canada</h6>
+        <p>Lorem empire, Lorem ipsum dolor sit amet, consectet</p>
 
         </div>
       </div>
