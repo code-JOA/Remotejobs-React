@@ -2,6 +2,8 @@ import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
 import { AiOutlineCloseCircle } from 'react-icons/ai'
 import { BsHouseDoor } from 'react-icons/bs'
+import { CiLocation } from 'react-icons/bs'
+
 
 
 const Search = () => {
@@ -24,6 +26,15 @@ const Search = () => {
 
 <div className='flex gap-2 items-center'>
   <BsHouseDoor className='text-[25px] icon'/>
+  <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
+   w-100%' placeholder='Search by Company....' />
+
+   <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
+    hover:text-textColor icon' />
+</div>
+
+<div className='flex gap-2 items-center'>
+  <AiOutlineSearch className='text-[25px] icon'/>
   <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
    w-100%' placeholder='SearchJobs Here....' />
 
