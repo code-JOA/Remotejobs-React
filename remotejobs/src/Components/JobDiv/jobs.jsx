@@ -45,7 +45,33 @@ const data = [
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bolt',
   },
-  
+  {
+    id:3,
+    image:logo3,
+    title: 'Prod. Manager',
+    time: 'Now',
+    location: 'London',
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Aspen Hosp',
+  },
+  {
+    id:3,
+    image:logo3,
+    title: 'Prod. Manager',
+    time: 'Now',
+    location: 'London',
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Aspen Hosp',
+  },
+  {
+    id:3,
+    image:logo3,
+    title: 'Prod. Manager',
+    time: 'Now',
+    location: 'London',
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Aspen Hosp',
+  },
 
 ]
 
