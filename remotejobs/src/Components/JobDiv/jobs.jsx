@@ -13,7 +13,7 @@ const data = [
     location: 'Canada'
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Bravo',
-    
+
   }
 
 ]
@@ -50,8 +50,9 @@ const Jobs = () => {
         group-hover:text-white'>
         Apply Now
         </button>
-
         </div>
+
+
       </div>
     </div>
   )
