@@ -1,6 +1,9 @@
 # Remotejobs-React
 
-![Repo List](remotejobs/src/Assets/image1.png)
+<!-- ![Repo List](remotejobs/src/Assets/image1.png) -->
+
+![Repo List](images/image1.png)
+
 
 Website built with React for jobs
 
