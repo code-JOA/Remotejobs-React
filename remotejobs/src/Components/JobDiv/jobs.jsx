@@ -1,6 +1,6 @@
 import React from 'react'
 import { BiTimeFive } from 'react-icons/bi'
-import logo2 from '../../Assets/logo2.png'
+import logo1 from '../../Assets/logo1.png'
 
 const Jobs = () => {
   return (
@@ -24,7 +24,7 @@ const Jobs = () => {
         </p>
 
         <div className="company flex items-center gap-2">
-        <img src={logo1} alt='Company Logo' className='w-[10%]'/>
+        <img src={logo1} alt='Company Logo' className='w-[40%]'/>
         </div>
 
 
