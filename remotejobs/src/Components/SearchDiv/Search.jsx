@@ -55,8 +55,11 @@ const Search = () => {
                <option value="">StartsWith</option>
                <option value="">Contains</option>
                 </select>
-                
+
             </div>
+
+
+            
           </div>
 
       </div>
