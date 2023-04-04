@@ -8,7 +8,7 @@ const data = [
   {
     id:1,
     image:logo1,
-    title: 'Software Engineer',
+    title: 'Software Eng',
     time: 'Now',
     location: 'Canada',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
@@ -22,7 +22,7 @@ const Jobs = () => {
     <div>
       <div className='jobContainer flex gap-10 justify-center flex-wrap items-center
       py-10'>
-        // old code has been hashed now that the Map() is working
+        {/* old code has been hashed now that the Map() is working */}
         {/* <div className='group group/item singleJob w-[250px] p-[20px] bg-white rounded
         [10px] hover:bg-blueColor shadow-lg shadow-greyIsh-400/700 hover:shadow-lg'>
 
