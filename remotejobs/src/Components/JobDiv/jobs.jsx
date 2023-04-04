@@ -35,6 +35,16 @@ const data = [
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
     company: 'Aspen Hosp',
   },
+  {
+    id:4,
+    image:logo4,
+    title: '',
+    time: 'Now',
+    location: 'London',
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Aspen Hosp',
+  },
+  
 
 ]
 
