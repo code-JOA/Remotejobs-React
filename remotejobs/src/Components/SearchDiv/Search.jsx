@@ -80,11 +80,11 @@ const Search = () => {
               <option value="">Senior</option>
               <option value="">Intermediate</option>
               <option value="">Advocate</option>
-              <option value="">Contains</option>
+              <option value="">Beginner</option>
             </select>
             </div>
-
-
+     
+            <span></span>
 
 
 
