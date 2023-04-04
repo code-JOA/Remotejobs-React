@@ -17,9 +17,10 @@ const Search = () => {
    w-100%' placeholder='SearchJobs Here....' />
 
    <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
-    hover:text-textColor icons' />
-
+    hover:text-textColor icon' />
 </div>
+
+
 
 </div>
 
