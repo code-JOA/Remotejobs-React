@@ -24,7 +24,7 @@ const Jobs = () => {
         </p>
 
         <div className="company flex items-center gap-2">
-
+        <img src={logo1}></img>
         </div>
 
 
