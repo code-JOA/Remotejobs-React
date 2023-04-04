@@ -2,6 +2,8 @@ import React from 'react'
 import { BiTimeFive } from 'react-icons/bi'
 import logo1 from '../../Assets/logo1.png'
 import logo2 from '../../Assets/logo2.png'
+import logo3 from '../../Assets/logo3.png'
+
 
 // listing all other jobs using a Map() which is a high order array 
 
@@ -31,7 +33,7 @@ const data = [
     time: 'Now',
     location: 'London',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: '',
+    company: 'Aspen Hospitality',
   },
 
 ]
