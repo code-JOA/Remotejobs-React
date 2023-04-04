@@ -51,7 +51,10 @@ const Jobs = () => {
         Apply Now
         </button>
         </div>
-
+      
+      {
+        data.map(({}))
+      }
 
       </div>
     </div>
