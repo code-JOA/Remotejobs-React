@@ -30,7 +30,7 @@ const Jobs = () => {
         </div>
 
         <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px]
-        semi-bold'>
+        semi-bold text-textColor'>
         Apply Now
         </button>
 
