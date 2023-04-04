@@ -2,6 +2,12 @@ import React from 'react'
 import { BiTimeFive } from 'react-icons/bi'
 import logo1 from '../../Assets/logo1.png'
 
+
+
+const data [
+  
+]
+
 const Jobs = () => {
   return (
     <div>
