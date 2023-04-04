@@ -22,7 +22,7 @@ const Jobs = () => {
         group-hover:text-white'>Lorem empire, Lorem ipsum dolor sit amet, consectet
         </p>
 
-        <div className="">
+        <div className="company flex items-center gap-2">
 
         </div>
 
