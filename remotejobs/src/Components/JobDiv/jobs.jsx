@@ -29,11 +29,11 @@ const data = [
   {
     id:3,
     image:logo3,
-    title: 'Product Manager',
+    title: 'Prod. Manager',
     time: 'Now',
     location: 'London',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Aspen Hospitality',
+    company: 'Aspen Hosp',
   },
 
 ]
