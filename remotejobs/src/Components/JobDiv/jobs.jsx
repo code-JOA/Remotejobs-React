@@ -38,11 +38,11 @@ const data = [
   {
     id:4,
     image:logo4,
-    title: '',
+    title: 'Data Scientist',
     time: 'Now',
-    location: 'London',
+    location: 'New York',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Aspen Hosp',
+    company: 'Bolt',
   },
   
 
