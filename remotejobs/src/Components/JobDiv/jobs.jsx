@@ -72,9 +72,9 @@ const data = [
     image:logo7,
     title: 'Data Analyst',
     time: '24hrs',
-    location: '',
+    location: 'California',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Aspen Hosp',
+    company: 'As',
   },
   {
     id:3,
