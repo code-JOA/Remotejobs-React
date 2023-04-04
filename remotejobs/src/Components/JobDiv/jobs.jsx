@@ -16,7 +16,6 @@ const Jobs = () => {
             <BiTimeFive/>Now
           </span>
 
-
         </span>
 
         </div>
