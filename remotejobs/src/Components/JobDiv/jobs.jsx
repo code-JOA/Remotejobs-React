@@ -8,7 +8,7 @@ const data = [
   {
     id:1,
     image:logo1,
-    title: 'Software Eng',
+    title: 'Web Developer',
     time: 'Now',
     location: 'Canada',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
@@ -19,9 +19,9 @@ const data = [
     image:logo2,
     title: 'Software Eng',
     time: 'Now',
-    location: 'Canada',
+    location: 'Bali',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Bravo',
+    company: 'Google',
   },
 
 ]
