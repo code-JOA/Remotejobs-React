@@ -27,11 +27,11 @@ const data = [
   {
     id:3,
     image:logo3,
-    title: 'Software Eng',
+    title: 'Product Manager',
     time: 'Now',
-    location: 'Canada',
+    location: 'London',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
-    company: 'Bravo',
+    company: '',
   },
 
 ]
