@@ -68,7 +68,7 @@ const Search = () => {
               <option value="">Full-time</option>
               <option value="">Remote</option>
               <option value="">Contract</option>
-              <option value="">Contains</option>
+              <option value="">Part-time</option>
             </select>
             </div>
 
