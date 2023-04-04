@@ -11,8 +11,9 @@ const data = [
     title: 'Web Developer',
     time: 'Now',
     location: 'Canada'
-    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet'
-    comp
+    desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
+    company: 'Bravo',
+    
   }
 
 ]
