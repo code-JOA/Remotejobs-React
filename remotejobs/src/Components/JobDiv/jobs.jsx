@@ -12,8 +12,8 @@ const Jobs = () => {
         <span className='flex justify-between items-center gap-4 '>
           <h1 className='text-[16px] font-semibold text-textColor group-hover:text-white'
           >Web Developer</h1>
-          <span className=''>
-            <BiTimeFive/>
+          <span className='fle'>
+            <BiTimeFive/>Now
           </span>
 
 
