@@ -3,7 +3,7 @@ import { BiTimeFive } from 'react-icons/bi'
 import logo1 from '../../Assets/logo1.png'
 import logo2 from '../../Assets/logo2.png'
 import logo3 from '../../Assets/logo3.png'
-import logo4 from '../Assets/logo4.png'
+import logo4 from '../../Assets/logo4.png'
 
 
 // listing all other jobs using a Map() which is a high order array 
