@@ -44,8 +44,8 @@ const Search = () => {
       </form>
 
           <div className='secDiv flex items-center gap-10 justify-center'>
-            <div className='singleSearch flex items-center gap-10 justify-center'>
-              
+            <div className='singleSearch flex items-center gap-2'>
+              <label htmlFor="r"></label>
             </div>
           </div>
 
