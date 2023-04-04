@@ -23,7 +23,7 @@ const Search = () => {
 </div>
 
 <div className='flex gap-2 items-center'>
-  <AiOutlineSearch className='text-[25px] icon'/>
+  <BsHouseDoor className='text-[25px] icon'/>
   <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
    w-100%' placeholder='SearchJobs Here....' />
 
