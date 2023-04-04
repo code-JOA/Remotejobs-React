@@ -1,6 +1,8 @@
 import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
 import { AiOutlineCloseCircle } from 'react-icons/ai'
+import { BsHouseDoor } from 'react-icons/bs'
+
 
 const Search = () => {
   return (
