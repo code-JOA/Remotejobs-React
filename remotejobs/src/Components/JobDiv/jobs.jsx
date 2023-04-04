@@ -19,7 +19,13 @@ const Jobs = () => {
 
         <h6 className='text-[#ccc]'>Canada</h6>
         <p className='text-[13px] text-[#959595] pt-[20px] border-t-[2px] mt-[20px]
-        group-hover:text-white'>Lorem empire, Lorem ipsum dolor sit amet, consectet</p>
+        group-hover:text-white'>Lorem empire, Lorem ipsum dolor sit amet, consectet
+        </p>
+
+        <div className="">
+
+        </div>
+
 
         </div>
       </div>
