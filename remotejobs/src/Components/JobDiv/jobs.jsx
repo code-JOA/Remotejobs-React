@@ -17,7 +17,7 @@ const Jobs = () => {
           </span>
         </span>
 
-        <h6 className=''>Canada</h6>
+        <h6 className='text-[#ccc]'>Canada</h6>
 
         </div>
       </div>
