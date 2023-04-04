@@ -15,8 +15,9 @@ const Jobs = () => {
           <span className='flex items-center text-[#ccc] gap-1 '>
             <BiTimeFive/>Now
           </span>
-
         </span>
+
+        <h6 className=''>Canada</h6>
 
         </div>
       </div>
