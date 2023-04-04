@@ -2,7 +2,7 @@ import React from 'react'
 import { AiOutlineSearch } from 'react-icons/ai'
 import { AiOutlineCloseCircle } from 'react-icons/ai'
 import { BsHouseDoor } from 'react-icons/bs'
-import { CiLocation } from 'react-icons/bs'
+import { CiLocationOn } from 'react-icons/ci'
 
 
 
@@ -34,9 +34,9 @@ const Search = () => {
 </div>
 
 <div className='flex gap-2 items-center'>
-  <AiOutlineSearch className='text-[25px] icon'/>
+  <CiLocationOn className='text-[25px] icon'/>
   <input type='text' className='bg-transparent text-blue-500 focus:outline-none 
-   w-100%' placeholder='SearchJobs Here....' />
+   w-100%' placeholder='Search by Location....' />
 
    <AiOutlineCloseCircle className='tex-[30px] text-[#a5a6a6]
     hover:text-textColor icon' />
