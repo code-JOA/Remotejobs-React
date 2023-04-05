@@ -27,6 +27,7 @@ const Value = () => {
             Minimalist and beauty are our hallmarks in everything we do on a daily basis
           </p>
         </div>
+        
       </div>
     </div>
   )
