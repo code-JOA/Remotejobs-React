@@ -43,6 +43,8 @@ const Value = () => {
             Minimalist and beauty are our hallmarks in everything we do on a daily basis
           </p>
         </div> 
+        
+{/* Third grid goes here*/}
 
         <div className='singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]'>
           <div className='flex items-center gap-3'>
