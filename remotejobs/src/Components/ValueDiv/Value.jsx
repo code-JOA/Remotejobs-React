@@ -37,7 +37,7 @@ const Value = () => {
             </div>
 
             <span className='font-semibold text-textColor text-[18px]'>
-              Simplicity
+              Integrity
             </span>
           </div>
           <p className='text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold '>
@@ -55,7 +55,7 @@ const Value = () => {
             </div>
 
             <span className='font-semibold text-textColor text-[18px]'>
-              Simplicity
+              Trust
             </span>
           </div>
           <p className='text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold '>
