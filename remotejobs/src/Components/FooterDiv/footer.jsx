@@ -17,8 +17,8 @@ const Footer = () => {
       </div>
 
       <div className='grid'>
-        <span className='divTitle'>
-          
+        <span className='divTitle '>
+          Company
         </span>
 
       </div>
