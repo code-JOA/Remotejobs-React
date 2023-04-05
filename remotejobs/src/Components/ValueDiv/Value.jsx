@@ -59,7 +59,7 @@ const Value = () => {
             </span>
           </div>
           <p className='text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold '>
-            Minimalist and beauty are our hallmarks in everything we do on a daily basis
+            We work on the basis on trust ; thereby, having a strong relationship with our clients
           </p>
         </div>
       </div>
