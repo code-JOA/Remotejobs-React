@@ -19,7 +19,9 @@ const Value = () => {
               Simplicity
             </span>
           </div>
-
+          <p>
+            Minimalist 
+          </p>
         </div>
       </div>
 
