@@ -19,7 +19,7 @@ const Value = () => {
               Simplicity
             </span>
           </div>
-          <p className='text-[25px] '>
+          <p className='text-[25px] text-textColor opacity-[.7px]'>
             Minimalist and beauty are our hallmarks
           </p>
         </div>
