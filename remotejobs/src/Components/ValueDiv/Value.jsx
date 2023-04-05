@@ -1,7 +1,7 @@
 import React from 'react'
 import logo9 from '../../Assets/logo9.png'
 import unedited from '../../Assets/unedited.png'
-import new from '../../Assets/'
+import new from '../../Assets/new.png'
 
 
 const Value = () => {
