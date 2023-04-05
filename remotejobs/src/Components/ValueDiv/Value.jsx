@@ -11,6 +11,7 @@ const Value = () => {
       </h1>
 
       <div className='grid gap-[10rem] grid-cols-3 items-center'>
+
         <div className='singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]'>
           <div className='flex items-center gap-3'>
             <div className='imgDiv p-[4px] rounded-[.8rem] bg-[#dedef8] 
@@ -27,7 +28,6 @@ const Value = () => {
           </p>
         </div>
       </div>
-      
     </div>
   )
 }
