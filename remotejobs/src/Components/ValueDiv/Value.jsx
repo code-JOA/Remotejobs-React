@@ -37,11 +37,11 @@ const Value = () => {
             </div>
 
             <span className='font-semibold text-textColor text-[18px]'>
-              Sim
+              Something
             </span>
           </div>
           <p className='text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold '>
-            Minimalist and beauty are our hallmarks in everything we do on a daily basis
+            We believe in making things better for everyone to live comfortably
           </p>
         </div>
       </div>
