@@ -1,5 +1,7 @@
 import React from 'react'
 import logo9 from '../../Assets/logo9.png'
+import logo9 from '../../Assets/logo9.png'
+
 
 const Value = () => {
   return (
