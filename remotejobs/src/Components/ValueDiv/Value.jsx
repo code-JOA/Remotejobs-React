@@ -19,8 +19,8 @@ const Value = () => {
               Simplicity
             </span>
           </div>
-          <p>
-            Minimalist 
+          <p className='text-[25px] '>
+            Minimalist and beauty are our hallmarks
           </p>
         </div>
       </div>
