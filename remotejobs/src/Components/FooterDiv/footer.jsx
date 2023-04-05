@@ -10,7 +10,7 @@ const Footer = () => {
           <strong>Remote</strong>Jobs
           </h1>
         </div>
-        <p className='text-white pb-[13px] opacity-[70] leading-7'>
+        <p className='text-white pb-[13px] opacity-70 leading-7'>
           We connect verified job seekers with handpicked Tech companies looking to 
           grow their teams. Get your new jobs now.
         </p>
