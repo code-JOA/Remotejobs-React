@@ -16,7 +16,7 @@ const Footer = () => {
         </p>
       </div>
 
-      {/* <div className='grid'>
+      <div className='grid'>
         <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
           Company
         </span>
@@ -27,8 +27,8 @@ const Footer = () => {
           <li className='text-white opacity-[.7] hover:opacity-[1] '>News</li>
           <li className='text-white opacity-[.7] hover:opacity-[1] '>FAQ</li>
 
-        </div> */}
-      {/* </div> */}
+        </div> 
+      </div> 
 
     </div>
   )
