@@ -5,8 +5,13 @@ const Footer = () => {
     <div className='footer p-[5rem] mb-4 bg-blueColor rounded-10px gap-8 
     grid-cols-5 m-auto items-center justify-center'>
       <div>
-        <div>
-          
+        <div className='logoDiv'>
+          <h1>
+            <strong>
+              
+            </strong>
+          </h1>
+
         </div>
       </div>
 
