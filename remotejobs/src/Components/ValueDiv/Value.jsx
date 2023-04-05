@@ -1,6 +1,6 @@
 import React from 'react'
 import logo9 from '../../Assets/logo9.png'
-import logo9 from '../../Assets/logo9.png'
+import unedited from '../../Assets/unedited.png'
 
 
 const Value = () => {
@@ -33,11 +33,11 @@ const Value = () => {
           <div className='flex items-center gap-3'>
             <div className='imgDiv p-[4px] rounded-[.8rem] bg-[#dedef8] 
               h-[40px] w-[40px] flex items-center justify-center'>
-              <img src={logo9} alt="" className='w-[70%]'/>
+              <img src={unedited} alt="" className='w-[70%]'/>
             </div>
 
             <span className='font-semibold text-textColor text-[18px]'>
-              Simplicity
+              Sim
             </span>
           </div>
           <p className='text-[13px] text-textColor opacity-[.7] py-[1rem] font-semibold '>
