@@ -8,11 +8,11 @@ const Value = () => {
       w-[400px] block'>Being True to Ourselves and Accountability
       </h1>
 
-      <div className='grip gap-[10rem] grid-cols-3 items-center'>
+      <div className='grid gap-[10rem] grid-cols-3 items-center'>
         <div className='singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]'>
           <div className='flex items-center gap-3'>
             <div className='imgDiv p-[4px] rounded-[.8rem] bg-inherit-[#dedef8] 
-              h-[40px] w-[40px] flex items-center justify-center'>
+              h-[40px] w-[40] flex items-center justify-center'>
               <img src={logo9} alt="" className='w-[70%]'/>
             </div>
 
