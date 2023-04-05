@@ -21,7 +21,7 @@ const Footer = () => {
           Company
         </span>
         <div className='grid gap-3'>
-          <li className='text-white opacity-8 '>About Us</li>
+          <li className='text-white opacity-[.7] hover: '>About Us</li>
         </div>
       </div>
 
