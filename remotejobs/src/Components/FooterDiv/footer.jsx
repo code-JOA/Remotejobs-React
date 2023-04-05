@@ -20,8 +20,8 @@ const Footer = () => {
         <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
           Company
         </span>
-        <div className='grid'>
-
+        <div className='grid gap-3'>
+          <li></li>
         </div>
       </div>
 
