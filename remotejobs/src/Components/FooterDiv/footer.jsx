@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
 
       <div className='grid'>
-        <span className='divTitle text-[18px] font-semibold pb-[1.5rem]  '>
+        <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
           Company
         </span>
 
