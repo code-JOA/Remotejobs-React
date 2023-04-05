@@ -52,7 +52,7 @@ const data = [
   {
     id:5,
     image:logo5,
-    title: 'Scrum',
+    title: 'Scrum Master',
     time: '15hrs',
     location: 'Australia',
     desc: 'Lorem empire, Lorem ipsum dolor sit amet, consectet',
