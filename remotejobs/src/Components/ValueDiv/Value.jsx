@@ -29,7 +29,7 @@ const Value = () => {
           </p>
         </div>
 {/* second grid goes here */}
-        <div className='singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]'>
+        <div className='singleGrid rounded-[10px] hover:bg-[#f7d1e1] p-[1.5rem]'>
           <div className='flex items-center gap-3'>
             <div className='imgDiv p-[4px] rounded-[.8rem] bg-[#dedef8] 
               h-[40px] w-[40px] flex items-center justify-center'>
@@ -47,7 +47,7 @@ const Value = () => {
 
 {/* Third grid goes here*/}
 
-        <div className='singleGrid rounded-[10px] hover:bg-[#eeedf7] p-[1.5rem]'>
+        <div className='singleGrid rounded-[10px] hover:bg-[#edf7ee] p-[1.5rem]'>
           <div className='flex items-center gap-3'>
             <div className='imgDiv p-[4px] rounded-[.8rem] bg-[#dedef8] 
               h-[40px] w-[40px] flex items-center justify-center'>
