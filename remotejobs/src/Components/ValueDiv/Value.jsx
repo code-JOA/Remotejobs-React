@@ -15,6 +15,7 @@ const Value = () => {
               h-[40px] w-[20%] flex items-center justify-center'>
               <img src={logo9} alt="" className='w-[70%]'></img>
             </div>
+            
           </div>
 
         </div>
