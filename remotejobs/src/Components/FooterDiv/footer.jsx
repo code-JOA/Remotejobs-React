@@ -6,11 +6,8 @@ const Footer = () => {
     grid-cols-5 m-auto items-center justify-center'>
       <div>
         <div className='logoDiv'>
-          <h1>
-            <strong>
-              
-            </strong>
-          </h1>
+          <h1 className="logo text-[25px] text-blueColor">
+          <strong>Remote</strong>Jobs</h1>
 
         </div>
       </div>
