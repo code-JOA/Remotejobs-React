@@ -9,8 +9,18 @@ const Footer = () => {
           <h1 className="logo text-[25px] text-white pb-[1.5rem] ">
           <strong>Remote</strong>Jobs
           </h1>
-
         </div>
+        <p className='text-white pb-[13px] opacity-70 leading-7'>
+          We connect verified job seekers with handpicked Tech companies looking to 
+          grow their teams.
+        </p>
+      </div>
+
+      <div className='grid'>
+        <span className='divTitle'>
+          
+        </span>
+
       </div>
 
     </div>
