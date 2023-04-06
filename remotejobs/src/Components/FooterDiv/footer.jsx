@@ -71,7 +71,7 @@ const Footer = () => {
             text-blueColor'/>
             <BsFacebook className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
-            <BsTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
+            <BsTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon 
             text-blueColor'/>
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
