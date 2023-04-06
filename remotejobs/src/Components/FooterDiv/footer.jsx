@@ -1,5 +1,6 @@
 import React from 'react'
 import { AiFillInstagram } from 'react-icons/ai'
+import { BsFacebook } from 'react-icons/bs'
 
 const Footer = () => {
   return (
@@ -65,6 +66,10 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
+            <AiFillInstagram className='bg-white p-[18px] h-[35px] rounded-full icon
+            text-blueColor'/>
+            <BsFacebook className='bg-white p-[18px] h-[35px] rounded-full icon
+            text-blueColor'/>
             <AiFillInstagram className='bg-white p-[18px] h-[35px] rounded-full icon
             text-blueColor'/>
           </div>
