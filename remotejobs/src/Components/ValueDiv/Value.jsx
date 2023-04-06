@@ -75,9 +75,9 @@ const Value = () => {
         </div>
         
         <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] text-[1px]
-          text-semibold text-blueColor hover:bg-white border-blueColor'>
+          text-semibold text-textColor hover:bg-white border-blueColor'>
           Get Started
-          </button>
+        </button>
 
       </div>
      
