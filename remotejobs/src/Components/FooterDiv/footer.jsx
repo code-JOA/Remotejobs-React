@@ -67,11 +67,11 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
-            <AiFillInstagram className='bg-white p-[18px] h-[35px] rounded-full icon
+            <AiFillInstagram className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
-            <BsFacebook className='bg-white p-[18px] h-[35px] rounded-full icon
+            <BsFacebook className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
-            <BsTwitter className='bg-white p-[18px] h-[35px] rounded-full icon 
+            <BsTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon 
             text-blueColor'/>
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
