@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='footer p-[5rem] mb-4 bg-blueColor rounded-[10px] gap-[8] 
+    <div className='footer p-[5rem] mb-4 bg-blueColor rounded-[10px] gap-8 
     grid grid-cols-5 m-auto items-center justify-center'>
       <div>
         <div className='logoDiv'>
@@ -21,6 +21,7 @@ const Footer = () => {
           Company
         </span>
          <div className='grid gap-3'>
+
           <li className='text-white opacity-[.7] hover:opacity-[1]'>About Us</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Features</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>News</li>
@@ -33,6 +34,7 @@ const Footer = () => {
           Company
         </span>
          <div className='grid gap-3'>
+
           <li className='text-white opacity-[.7] hover:opacity-[1]'>About Us</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Features</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>News</li>
@@ -45,7 +47,7 @@ const Footer = () => {
           Company
         </span>
          <div className='grid gap-3'>
-          
+
           <li className='text-white opacity-[.7] hover:opacity-[1]'>About Us</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Features</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>News</li>
