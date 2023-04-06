@@ -64,10 +64,10 @@ const Value = () => {
         </div>
       </div>
 
-      <div className='card'>
+      <div className='card mt-[2rem] flex justify-between'>
 
       </div>
-      
+
     </div>
   )
 }
