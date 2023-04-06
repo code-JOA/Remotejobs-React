@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai'
 import { BsFacebook } from 'react-icons/bs'
-import { AiOutlineTwi}
+import { AiOutlineTwitter } from 'react-icons/ai'
 
 const Footer = () => {
   return (
