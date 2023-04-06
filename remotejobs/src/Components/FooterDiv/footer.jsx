@@ -69,9 +69,9 @@ const Footer = () => {
           <div className='icons flex gap-4 py-[1rem]'>
             <AiFillInstagram className='bg-white p-[18px] h-[35px] rounded-full icon
             text-blueColor'/>
-            <BsFacebook className='bg-white p-[18px] h-[35px] rounded-full icon
+            <BsFacebook className='bg-white p-[18px] h-[35px] w-[] rounded-full icon
             text-blueColor'/>
-            <AiOutlineTwitter className='bg-white p-[18px] h-[35px] rounded-full icon
+            <AiOutlineTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
