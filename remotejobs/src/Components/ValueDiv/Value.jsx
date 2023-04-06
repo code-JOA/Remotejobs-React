@@ -69,7 +69,8 @@ const Value = () => {
 
         <div>
         <h1 className='text-blueColor text-[30px] font-bold'>
-          Ready to Switch Careers?</h1>
+          Ready to Switch Careers?
+          </h1>
         </div>
         
 
