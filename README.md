@@ -38,14 +38,18 @@ npx tailwindcss init -p
 Open tailwind.config.js file and edit so your final code looks like below
 `
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
+
   content: [
      "./index.html",
     "./src/**/*.{js,jsx}",
   ],
+
   theme: {
     extend: {},
   },
+  
   plugins: [],
 }
 `
