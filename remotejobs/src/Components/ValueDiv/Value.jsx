@@ -72,7 +72,10 @@ const Value = () => {
           Ready to Switch Careers?
           </h1>
           <h2 className='text-textColor text-[25px] font-bold '>Let's Get Started</h2>
-          
+          <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] text-[1px]
+          text-semibold text-blueColor hover:bg-white border-blueColor'>
+          Get Started
+          </button>
 
         </div>
         
