@@ -71,7 +71,9 @@ const Value = () => {
           Ready to Switch Career
         </h1>
         <h2 className='text-textColor text-[25px] font-bold '>Let's Get Started</h2>
-        <button>Get Started</button>
+        <button className='bg-blueColor '>
+          Get Started
+          </button>
       </div>
       </div>
     </div>
