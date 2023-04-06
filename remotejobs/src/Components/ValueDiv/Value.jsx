@@ -67,7 +67,9 @@ const Value = () => {
       <div className='card mt-[2rem] flex justify-between bg-blueColor p-[5rem]
         rounded-[10px]'>
       <div>
-        
+        <h1 className='text-textColor'>
+
+        </h1>
       </div>
       </div>
     </div>
