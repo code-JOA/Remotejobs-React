@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='footer p-[5rem] mb-4 bg-blueColor rounded-[10px] gap-[8] 
-    grid-cols-5 m-auto items-center justify-center'>
+    grid grid-cols-5 m-auto items-center justify-center'>
       <div>
         <div className='logoDiv'>
           <h1 className="logo text-[25px] text-white pb-[1.5rem]">
@@ -20,16 +20,13 @@ const Footer = () => {
         <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
           Company
         </span>
-        <div className='grid gap-3'>
-
-          <li className='text-white opacity-[.7] hover:opacity-[1] '>About Us</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1] '>Features</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1] '>News</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1] '>FAQ</li>
-
+         <div className='grid gap-3'>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>About Us</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Features</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>News</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>FAQ</li>
         </div> 
-      </div> 
-
+      </div>  
     </div>
   )
 }
