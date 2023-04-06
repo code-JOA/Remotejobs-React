@@ -74,10 +74,10 @@ const Value = () => {
         
       </div>
 
-      <button className='bg-blueColor '>
+      <button className='border-[2px] rounded-[10px] bg-blueColor '>
           Get Started
           </button>
-          
+
       </div>
     </div>
   )
