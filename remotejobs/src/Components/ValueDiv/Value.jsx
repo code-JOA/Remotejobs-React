@@ -62,25 +62,13 @@ const Value = () => {
             We work on the basis on trust ; thereby, having a strong relationship with our clients
           </p>
         </div>
-      </div>
 
-      <div className='card mt-[2rem] flex justify-between bg-blueColor p-[5rem]
-        rounded-[10px]'>
-      <div>
-        <h1 className='text-blueColor text-[30px] font-bold'>
-          Ready to Switch Career
-        </h1>
-        <h2 className='text-textColor text-[25px] font-bold '>Let's Get Started</h2>
+
         
       </div>
 
-      <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] text-[1px]
-        text-semibold text-blueColor hover:bg-white border-blueColor'>
-          Get Started
-          </button>
-
-      </div>
-    {/* </div> */}
+   
+    </div>
   )
 }
 
