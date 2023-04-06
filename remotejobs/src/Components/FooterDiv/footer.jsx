@@ -27,6 +27,9 @@ const Footer = () => {
           <li className='text-white opacity-[.7] hover:opacity-[1]'>FAQ</li>
         </div> 
       </div>  
+
+      
+
     </div>
   )
 }
