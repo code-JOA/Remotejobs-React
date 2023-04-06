@@ -60,7 +60,7 @@ const Footer = () => {
           Contact Us
         </span>
          <div>
-          <small>josh_billion</small>
+          <small>josh_billion@yahoo.com</small>
 
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Events</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Reports</li>
