@@ -50,10 +50,23 @@ const Footer = () => {
 
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Events</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Reports</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>Request Demo</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Req Demo</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Careers</li>
         </div> 
       </div>       
+
+      <div className='grid'>
+        <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
+          Contact Us
+        </span>
+         <div className='grid gap-3'>
+
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Events</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Reports</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Request Demo</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>Careers</li>
+        </div> 
+      </div>     
 
     </div>
   )
