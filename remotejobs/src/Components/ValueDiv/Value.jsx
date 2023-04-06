@@ -64,7 +64,10 @@ const Value = () => {
         </div>
       </div>
 
-      <div className></div>
+      <div className='card'>
+
+      </div>
+      
     </div>
   )
 }
