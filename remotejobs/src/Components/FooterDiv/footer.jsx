@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiFillInstagram} from 'react-icons/ai'
 import { BsMeta } from 'react-icons/bs'
-import { BsTwitter } from 'react-icons/ai'
+import { BsTwitter } from 'react-icons/bs'
 
 const Footer = () => {
   return (
@@ -67,11 +67,11 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
-            <AiFillInstagram className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
+            <AiFillInstagram className='bg-white p-[18px] h-[30px] w-[35px] rounded-full icon
             text-blueColor'/>
-            <BsMeta className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
+            <BsMeta className='bg-white p-[18px] h-[35px] w-[30px] rounded-full icon
             text-blueColor'/>
-            <BsTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon 
+            <BsTwitter className='bg-white p-[18px] h-[35px] w-[30px] rounded-full icon 
             text-blueColor'/>  
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
