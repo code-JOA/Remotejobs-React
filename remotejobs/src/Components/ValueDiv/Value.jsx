@@ -74,7 +74,8 @@ const Value = () => {
         
       </div>
 
-      <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] bg-blueColor '>
+      <button className='border-[2px] rounded-[10px] py-[4px] px-[50px] text-[1px]
+        text-semibold bg-blueColor '>
           Get Started
           </button>
 
