@@ -31,7 +31,7 @@ const Footer = () => {
 
       <div className='grid'>
         <span className='divTitle text-[18px] font-semibold pb-[1.5rem] text-white'>
-          Company
+          Resources
         </span>
          <div className='grid gap-3'>
 
