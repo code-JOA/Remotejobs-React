@@ -65,7 +65,7 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
-            <AiFillInstagram className='bg-white p-[18px] bg-blueColor' />
+            <AiFillInstagram className='bg-white p-[18px] h-[35px] rounded-full bg-blueColor' />
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
           <li className='text-white opacity-[.7] hover:opacity-[1]'>481 Kings Road</li>
