@@ -68,7 +68,7 @@ const Value = () => {
         rounded-[10px]'>
       <div>
         <h1 className='text-blueColor text-[30px] font-bold'>
-
+          Ready to Switch Career
         </h1>
       </div>
       </div>
