@@ -68,10 +68,10 @@ const Footer = () => {
             <AiFillInstagram className='bg-white'/>
           </div>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li>
-          {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Evens</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>Reports</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>Request Demo</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>Careers</li> */}
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>481 Kings Road</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>SW10 0LF</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>London</li>
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>United Kingdom</li> 
         </div> 
       </div>     
 
