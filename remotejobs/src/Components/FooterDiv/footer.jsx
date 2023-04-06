@@ -65,7 +65,7 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
-            <AiFillInstagram/>
+            <AiFillInstagram className=''/>
           </div>
 
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Events</li>
