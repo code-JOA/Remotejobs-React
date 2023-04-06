@@ -41,7 +41,7 @@ li:hover::before{
 }
 
 .card{
-  background: grey; 
+  background: #ebe; 
 
   /* background: url(/src/Assets/testimonial.png) ; */
 }  
