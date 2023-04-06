@@ -65,13 +65,13 @@ const Footer = () => {
             josh_billion@yahoo.com
           </small>
           <div className='icons flex gap-4 py-[1rem]'>
-            <AiFillInstagram className='bg-white'/>
+            <AiFillInstagram className='bg-white' bg-/>
           </div>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li>
+          {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
           <li className='text-white opacity-[.7] hover:opacity-[1]'>481 Kings Road</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>SW10 0LF</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>London</li>
-          <li className='text-white opacity-[.7] hover:opacity-[1]'>United Kingdom</li> 
+          <li className='text-white opacity-[.7] hover:opacity-[1]'>London, UK</li>
+          {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>United Kingdom</li>  */}
         </div> 
       </div>     
 
