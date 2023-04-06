@@ -72,6 +72,7 @@ const Value = () => {
           Ready to Switch Careers?
           </h1>
           <h2 className='text-textColor text-[25px] font-bold '>Let's Get Started</h2>
+          
 
         </div>
         
