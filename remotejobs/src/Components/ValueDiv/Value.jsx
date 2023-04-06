@@ -63,8 +63,8 @@ const Value = () => {
           </p>
         </div>
       </div>
-      
-      <div>
+
+      <div className='card '>
 
       </div>
      
