@@ -60,9 +60,12 @@ const Footer = () => {
           Contact Us
         </span>
          <div>
-          <small className='text-[14px] '>josh_billion@yahoo.com
-
+          <small className='text-[14px] text-white'>
+            josh_billion@yahoo.com
           </small>
+          <div>
+            
+          </div>
 
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Events</li>
           <li className='text-white opacity-[.7] hover:opacity-[1]'>Reports</li>
