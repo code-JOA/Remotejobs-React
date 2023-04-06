@@ -80,7 +80,7 @@ const Value = () => {
           </button>
 
       </div>
-    </div>
+    {/* </div> */}
   )
 }
 
