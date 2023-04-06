@@ -66,6 +66,10 @@ const Value = () => {
 
       <div className='card mt-[2rem] flex justify-between bg-blueColor p-[5rem]
       rounded-[10px]'>
+
+        <div>
+          
+        </div>
         
 
       </div>
