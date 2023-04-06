@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai'
 import { BsFacebook } from 'react-icons/bs'
-import { AiOutlineTwitter } from 'react-icons/ai'
+import { BsTwitter } from 'react-icons/ai'
 
 const Footer = () => {
   return (
@@ -71,7 +71,7 @@ const Footer = () => {
             text-blueColor'/>
             <BsFacebook className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
-            <AiOutlineTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
+            <BsTwitter className='bg-white p-[18px] h-[35px] w-[35px] rounded-full icon
             text-blueColor'/>
           </div>
           {/* <li className='text-white opacity-[.7] hover:opacity-[1]'>Address</li> */}
