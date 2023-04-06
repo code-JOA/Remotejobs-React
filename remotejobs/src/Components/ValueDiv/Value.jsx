@@ -65,10 +65,11 @@ const Value = () => {
       </div>
 
       <div className='card mt-[2rem] flex justify-between bg-blueColor p-[5rem]
-       rounded'>
-
+        rounded-[10px]'>
+      <div>
+        
       </div>
-
+      </div>
     </div>
   )
 }
